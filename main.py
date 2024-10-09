@@ -39,3 +39,5 @@ while idade2 != 0:
         print(f"{nome2} é idoso")
 else:
     print("O loop entrou no else")
+
+# 
